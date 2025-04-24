@@ -12,13 +12,11 @@ Todo o projeto está contido dentro desta pasta principal. O servidor back-end r
 
 ## 🛠️ Tecnologias Utilizadas
 
-React (com Vite) — Interface de usuário
+React — Front-end
 
-TypeScript — Tipagem estática
+TypeScript — Back-end
 
 Tailwind CSS — Estilização
-
-Node.js — Back-end
 
 Ethereal Email — Simulação de envio de e-mails
 
