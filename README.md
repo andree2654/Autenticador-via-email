@@ -33,7 +33,7 @@ node server.ts
 
 ### 🌐 Iniciar o Front-end
 
-A partir da raiz do projeto (ou entre na pasta /client, se existir)
+A partir da raiz do projeto
 
 ```bash
 npm install
